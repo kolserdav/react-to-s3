@@ -1,0 +1,9 @@
+{
+  "name": "react-to-s3",
+  "version": "0.0.1",
+  "description": "Put build files of React to AWS S3 Bucket with aws-cli",
+  "main": "index.js",
+  "repository": "https://github.com/kolserdav/react-to-s3.git",
+  "author": "Sergey Kol'miller",
+  "license": "MIT"
+}
